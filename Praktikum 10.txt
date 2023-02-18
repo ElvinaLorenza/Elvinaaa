@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ini Title di Browser</title>
+	</head>
+	<body>
+		<h1 style="background-color:Gray;">Hello, World</h1>
+		<p><strong><i>Ini program saya yang pertama. Ini program saya yang pertama.</i></strong></p>
+        
+        <p style="background-color:LightGray;"><b>~Perkenalan~</b></p>
+
+		<p>Nama	: Elvina Lorenza Phang</p>
+        <p>Alamat : Jalan Gereja Protestan No.25</p>
+        <p>Tempat Tanggal Lahir : 15 Juni 2003</p>
+        <p><small>Golongan Darah : B</small></p>
+        <p>Status saya sekarang bukan lagi <del>pelajar biasa</del> melainkan adalah <mark> mahasiswa</mark></p>
+        <p>El <sub>salah satu</sub> mahasiswa Yogyakarta, yaitu mahasiswa Sanata Dharma</p>
+        
+        <p></p>
+        <p>Tempat-tempat di Yogyakarta yang sudah saya kunjungi :</p>
+        <ol>
+        	<li>Bukit Bintang</li>
+            <li>Parangtritis</li>
+            <li>Malioboro</li>
+            <li>Alun-Alun Kidul</li>
+	    <li>Hutan Pinus</li>
+	    <li>Taman Sari</li>
+        </ol>
+        
+        <h2 style="background-color:LightGray;">~My Image~</h2>
+        <img src="C:\Users\Asus\Documents\Internet dan Aplikasi D\Gambar1.jpeg" alt="Image" width="300" height="500">
+	</body>
+</html>
